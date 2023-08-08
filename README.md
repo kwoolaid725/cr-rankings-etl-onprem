@@ -37,7 +37,10 @@ senior manager.-->
   
  - Scheduled to run the script on weekdays using Windows Task Scheduler.
   <img width="375" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/ff56625d-a80c-47a4-b3de-c1970a7f61bf">
+  
+   ![image](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/da722364-e6da-4174-9bda-5917569e1251)
 
+   
 
 
 **Transformation**
