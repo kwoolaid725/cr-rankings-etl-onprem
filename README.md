@@ -42,9 +42,9 @@ senior manager.-->
 
 **Transformation**
 -------------
-- Data cleaning.
-- Creating new columns: **ranking**, **key**, **concat**, and **ranking_change**.
-- **Key** and **concat** are needed for generating dynamic tables in the Excel VBA file. 
+- Data cleaning
+- Creating new columns: **ranking**, **key**, **concat**, and **ranking_change**
+- **Key** and **concat** are needed for generating dynamic tables in the Excel VBA file
 
 <img width="420" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/a2445266-3082-40cb-8b7a-61ead2d312ca">
 
