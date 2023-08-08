@@ -1,4 +1,4 @@
-# cr-rankings-etl-onprem
+# Consumer Reports Rankings ETL - OnPrem ver.
 Consumer Reports Data (Overall Scores for Ranking) ETL tool to keep track of product rankings.
 ![cr_rankings_etl](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/4e199367-6c67-48b8-90fb-a99aa3b46eb2)
 
