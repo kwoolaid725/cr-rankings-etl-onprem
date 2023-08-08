@@ -42,14 +42,15 @@ senior manager.-->
 
 **Transformation**
 -------------
-- Transformation from the dataframe consisting of the scraped raw data to a new dataframe with new columns- **rankings**, **keys**, **ranking-comparison** - was executed along with other data cleaning processes.
-- Keys are needed for generating dynamic tables in the Excel VBA file. 
+- Data cleaning.
+- Creating new columns: **ranking**, **key**, **concat**, and **ranking_change**.
+- **Key** and **concat** are needed for generating dynamic tables in the Excel VBA file. 
 
 <img width="420" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/a2445266-3082-40cb-8b7a-61ead2d312ca">
 
 <img width="333" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/7228e238-c9df-4f04-a4f1-81ca3d586967">
 
-**How rankings are given:**
+- **How rankings are given:**
 
 ![image](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/62a143a3-8900-4b4c-9202-141d40d7c82b)
 
@@ -72,7 +73,7 @@ senior manager.-->
 
 -------------
 
-**Ranking Tables**
+- **Ranking Tables**
 
 <img width="475" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/3ded91ac-5a67-4328-9c12-5c0cefb2bd26">
 
@@ -84,18 +85,18 @@ senior manager.-->
 
 
 ------------
-**Changes Detecting Screen**
+- **Changes Detecting Screen**
 
 <img width="550" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/427d2d52-0997-444c-bb2b-3bbf6cd7a55b">
 
 
-**Dynamic Lookup Table**
+- **Dynamic Lookup Table**
 
 <img width="550" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/f6a86c0d-e6ad-4914-af09-f86c8220495e">
 
 -------------
 
-**Dynamic Lookup Table Nested Functions** 
+- **Dynamic Lookup Table Nested Functions** 
 <img width="900" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/4295a1ef-c871-4641-9b02-1bf6cded9e37">
 
 
