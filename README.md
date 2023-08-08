@@ -17,7 +17,7 @@ senior manager.-->
 - ```Windows Task Scheduler```: Scheduled task (cron) to run the python script everyday at a scheduled time.
 - ```Postgres```: Data warehouse on premise.
 - ```Shared Cloud Disk```: Store transformed data in excel format for clleagues and dashboards.
-- ```Excel VBA Macros & Functions```: Update dashboard that shows changes between sessions.
+- ```Excel VBA Macros & Functions```: Dashboard with ranking tables, update status, and search tool.
 
 
 **Extraction** 
