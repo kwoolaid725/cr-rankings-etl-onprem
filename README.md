@@ -41,9 +41,12 @@ senior manager.-->
 
 **Transformation**
 -------------
-<img width="427" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/19fdc003-5bcb-42f8-b7d2-fec766f74731">
+<img width="420" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/a2445266-3082-40cb-8b7a-61ead2d312ca">
 
-<img width="340" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/d261fbbb-9c0f-4913-8567-b1a39d5c8295">
+
+
+<img width="333" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/7228e238-c9df-4f04-a4f1-81ca3d586967">
+
 
 
 
