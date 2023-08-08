@@ -42,7 +42,8 @@ senior manager.-->
 
 **Transformation**
 -------------
-
+- Transformation from the dataframe consisting of the scraped raw data to a new dataframe with new columns- **rankings**, **keys**, **ranking-comparison** - was executed along with other data cleaning processes.
+- Keys are needed for generating dynamic tables in the Excel VBA file. 
 
 <img width="420" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/a2445266-3082-40cb-8b7a-61ead2d312ca">
 
