@@ -1,6 +1,7 @@
 # Consumer Reports Rankings ETL - OnPrem ver.
 Consumer Reports Data (Overall Scores for Ranking) ETL tool to keep track of product rankings in each of the 43 product categories (~1600 products)
-![cr_rankings_etl](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/4e199367-6c67-48b8-90fb-a99aa3b46eb2)
+![cr_rankings_etl](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/e14b243c-48ef-47f2-8c54-8612eed9ee6e)
+
 
 
 ## Project Overview
@@ -25,7 +26,7 @@ senior manager.-->
 **Extraction** 
 -------------
  - A custom web scraper was built using Selenium and Python to extract 43 home appliance product categories' data.
-  <img width="316" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/dc1cddf1-24db-4d92-bf74-5a8723fe615e">
+  <img width="316" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/64848b19-3333-4092-967c-343e84205694">
   <img width="358" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/efaefbd2-42a5-4a48-980f-f2aa5fe89071">
 
 
@@ -38,7 +39,8 @@ senior manager.-->
  - Scheduled to run the script on weekdays using Windows Task Scheduler.
   <img width="375" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/ff56625d-a80c-47a4-b3de-c1970a7f61bf">
 
-![Picture1](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/43a19bb6-abff-41e9-bca5-857475c8801b)
+<img width="365" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/31a29c8c-724c-45d1-99ca-cb34d9e0aff3">
+
 
 
 **Transformation**
