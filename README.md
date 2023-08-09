@@ -58,7 +58,9 @@ senior manager.-->
 ![image](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/62a143a3-8900-4b4c-9202-141d40d7c82b)
 
 **Postgres Datatable:**
-![image](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/c84c0194-6d8e-4ec4-8892-cad54b39d60a)
+
+<img width="700" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/c750f1f2-09c1-4d15-b987-8fd6592762b9">
+
 
 
 
@@ -78,7 +80,9 @@ senior manager.-->
 
 - **Ranking Tables**
 
-<img width="500" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/874ba085-b305-4329-b9c7-cd964b170acd">
+<img width="400" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/874ba085-b305-4329-b9c7-cd964b170acd">
+
+- **LG Top 3**
 <img width="400" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/86f4f765-0eca-44fb-9c2c-51f0ec7774a2">
 
 
@@ -90,13 +94,13 @@ senior manager.-->
 ------------
 - **Changes Detecting Screen**
 
-<img width="450" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/44990b22-3c99-48fc-b044-64448c246cf5">
+<img width="400" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/44990b22-3c99-48fc-b044-64448c246cf5">
 
 
 
 - **Dynamic Lookup Table**
 
-<img width="450" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/157855e6-702d-4899-a26a-cd861c36177b">
+<img width="400" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/157855e6-702d-4899-a26a-cd861c36177b">
 
 
 -------------
