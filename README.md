@@ -78,9 +78,9 @@ senior manager.-->
 
 - **Ranking Tables**
 
-<img width="475" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/3ded91ac-5a67-4328-9c12-5c0cefb2bd26">
+<img width="500" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/874ba085-b305-4329-b9c7-cd964b170acd">
+<img width="400" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/86f4f765-0eca-44fb-9c2c-51f0ec7774a2">
 
-<img width="365" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/e385831f-765a-418e-a767-db585099d61d">
 
 
 
@@ -90,12 +90,14 @@ senior manager.-->
 ------------
 - **Changes Detecting Screen**
 
-<img width="550" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/427d2d52-0997-444c-bb2b-3bbf6cd7a55b">
+<img width="450" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/44990b22-3c99-48fc-b044-64448c246cf5">
+
 
 
 - **Dynamic Lookup Table**
 
-<img width="550" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/f6a86c0d-e6ad-4914-af09-f86c8220495e">
+<img width="450" alt="image" src="https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/157855e6-702d-4899-a26a-cd861c36177b">
+
 
 -------------
 
