@@ -6,7 +6,7 @@ Consumer Reports Data (Overall Scores for Ranking) ETL tool to keep track of pro
 
 ## Project Overview
 
-The implementation of the ETL process streamlined the daily spending time of about 10 engineers from a combined 5+ hours to merely 10 minutes for a single person (who only needs to click a macro button in Excel VBA). Every step of this end-to-end pipeline has been initiated and developed by me.
+The implementation of the ETL process streamlined the daily spending time of about 10 engineers from a combined 5+ hours to merely 10 minutes for only a single person (who only needs to click a macro button in Excel VBA). Every step of this end-to-end pipeline has been initiated and developed by me.
 
 <!-- Engineers have daily responsibilities to check the Consumer Reports 
 website for any changes within the home appliance product categories they are in charge of. 
