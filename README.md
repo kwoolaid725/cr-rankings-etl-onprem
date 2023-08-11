@@ -1,5 +1,5 @@
 # Consumer Reports Rankings ETL - OnPrem ver.
-Consumer Reports Data (Overall Scores for Ranking) ETL tool to keep track of product rankings in each of the 43 product categories (~1600 products)
+Consumer Reports Data (Overall Scores for Ranking) End-to-End ETL pipeline to keep track of product rankings in each of the 43 product categories (~1600 products)
 ![cr_rankings_etl](https://github.com/kwoolaid725/cr-rankings-etl-onprem/assets/107806433/e14b243c-48ef-47f2-8c54-8612eed9ee6e)
 
 
