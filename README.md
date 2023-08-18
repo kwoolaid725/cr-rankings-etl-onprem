@@ -22,7 +22,6 @@ senior manager.-->
 - ```Shared Cloud Disk```: Store transformed data in excel format for clleagues and dashboards.
 - ```Excel VBA Macros & Functions```: Dashboard with ranking tables, update status, and search tool.
 
-
 **Extraction** 
 -------------
  - A custom web scraper was built using Selenium and Python to extract 43 home appliance product categories' data.
